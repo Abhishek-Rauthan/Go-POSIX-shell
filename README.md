@@ -19,7 +19,7 @@ To install and run the POSIX shell, follow the steps below:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/posix-shell-go.git
+git clone https://github.com/Abhishek-Rauthan/posix-shell-go.git
 cd posix-shell-go
 ```
 
